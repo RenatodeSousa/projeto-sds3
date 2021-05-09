@@ -11,7 +11,6 @@ type SeriesData={
 
 }
 
-
 type ChartData={
     labels:{
         categories: string[];
